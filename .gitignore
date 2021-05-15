@@ -1,0 +1,13 @@
+*.jpg
+*.png
+*.pyc
+*.pkl
+*.pickle
+*.kesaroid
+
+__pycache__/
+output/
+models/
+logs/
+images/
+.vscode/
